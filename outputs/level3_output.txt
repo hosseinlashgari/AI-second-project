@@ -1,0 +1,2 @@
+Method 1 output:  10000201   16.00
+Method 2 output:  10000201   16.00

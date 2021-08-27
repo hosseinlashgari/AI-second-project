@@ -1,0 +1,2 @@
+Method 1 output:  0010000001   20.00
+Method 2 output:  0010000001   20.00

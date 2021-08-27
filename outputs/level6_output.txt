@@ -1,0 +1,2 @@
+Method 1 output:  No winner found
+Method 2 output:  No winner found
